@@ -1,14 +1,11 @@
-````md
-<h1 align="center">Hi 👋, I'm Vaibhav Tanaji More</h1>
+# Hi 👋, I'm Vaibhav Tanaji More
 
 <h3 align="center">
 🚀 AI Engineer • 🤖 ML & Deep Learning Enthusiast • 📊 Aspiring Data Scientist
 </h3>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence+%26+Data+Science+Engineer;Machine+Learning+%26+Deep+Learning+Explorer;Building+AI-Powered+Platforms;Exploring+Generative+AI+%26+MLOps;Cybersecurity+%26+Data+Analytics+Enthusiast;Future+AI+Innovator+🚀" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+%26+Data+Science+Engineer;Machine+Learning+%26+Deep+Learning+Explorer;Aspiring+Data+Scientist;Building+AI-Powered+Platforms;Exploring+Generative+AI+%26+MLOps;Cybersecurity+%26+Data+Analytics+Enthusiast;Future+AI+Innovator+🚀" />
 </p>
 
 ---
@@ -60,7 +57,7 @@ Currently Building:
 
 Mission:
   Building scalable AI systems that solve real-world problems 🚀
-````
+```
 
 ---
 
@@ -199,4 +196,3 @@ Mission:
 <h3 align="center">
 ⭐ Building Intelligent Systems • Exploring Deep Learning • Creating the Future with AI 🚀
 </h3>
-```
